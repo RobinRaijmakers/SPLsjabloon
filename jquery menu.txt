@@ -1,0 +1,27 @@
+
+#1
+jquery CDN 
+
+#1.2 
+jquery script link boven functions.js zetten 
+
+#2
+nieuwe php document met wis menu html 
+
+#3
+wis menu .php bestand include in de header php 
+
+#4 
+functions.js aanmaken in JS mapje 
+
+#5
+in jquery document ready functie, checken voor <a> klik. href opslaan in variable  gebruik .hide() in het begin bij de document ready voor het wis menu
+
+#6 
+in opgeslage href checken of string delete bevat. zo ja wis de attr van de <a> met .attr en dan de href op # zetten
+
+#7 
+doe een .show() op het menu in het geklikte <a> functie 
+
+#8
+als #yes is dan doe een window.location.href = href << variable
